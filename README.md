@@ -1,5 +1,5 @@
 # PE2Shellcode
-This is just a reflective loader (to handle stuff like relocating, IAT building, ...) written in assemply</br>
+This is just a reflective loader (to handle stuff like relocating, IAT building, ...) written in asm</br>
 This is the injector, the shellcode is just a stub put in before the PE file</br>
 
 # How to use
